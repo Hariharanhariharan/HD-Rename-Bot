@@ -13,7 +13,7 @@ An Open Source Rename Telegram RoBot
 
 **Watch our HoT to Video button.SVG for Create own Bot** - 👉 https://youtu.be/yYHrSnuYXpA
 
-### You can also tap the Deploy To Heroku https://t.me/Hari09Group below to deploy straight to Heroku!
+### You can also tap the Deploy To Heroku below to deploy straight to Heroku!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Hariharanhariharan/HD-Rename-Bot)
 
@@ -41,7 +41,7 @@ python bot.py
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
-- For FeedBack and Suggestions, please feel free to say in [@InFoTelGroup](https://telegram.dog/Hari09Group)
+- For FeedBack and Suggestions, please feel free to say in [@Hari09Group](https://telegram.dog/Hari09Group)
 
 #### LICENSE
 - GPLv3
